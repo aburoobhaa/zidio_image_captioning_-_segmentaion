@@ -34,6 +34,4 @@ pip install streamlit tensorflow torch torchvision numpy pandas pillow matplotli
 ├── Pretrain_app.py            # Streamlit app for pretrained ResNet50 version
 ├── Image_Caption_train.ipynb  # Notebook for training captioning model
 ├── image-segmentation.ipynb   # Notebook for training segmentation model
-├── saved_models/              # Folder for storing trained weights
-├── saved_vocabulary/          # Folder for storing vocabulary files
 ```
